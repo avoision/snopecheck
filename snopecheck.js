@@ -1,3 +1,5 @@
+console.log('heya123');
+
 var text = $('._6m6 a').first().text();
 console.log("I found: " + text);
 
@@ -16,7 +18,6 @@ var searchURL = urlprefix + text;
 				// .text
 					// h3.title
 						// spans
-
 
 
 console.log('--------------------------- end of line ---------------------------  ');
